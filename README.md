@@ -1,4 +1,4 @@
-# This package scrapes [cnodejs.org](cnodejs.org) site
+# This package scrapes [cnodejs.org](https://cnodejs.org) site
 
 It scrapes the site for posts.
 And displays post titles, authors, etc.
