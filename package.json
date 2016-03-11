@@ -1,0 +1,28 @@
+{
+  "name": "cnode-post-head-crawler",
+  "version": "0.0.0",
+  "description": "scrapes cnodejs ( node community in China ) for posts info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thinkdmeanin/cnode-post-head-crawler.git"
+  },
+  "keywords": [
+    "china",
+    "crawler"
+  ],
+  "author": "Joseph Shing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkdmeanin/cnode-post-head-crawler/issues"
+  },
+  "homepage": "https://github.com/thinkdmeanin/cnode-post-head-crawler",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "express": "^4.13.4",
+    "superagent": "^1.8.0"
+  }
+}
